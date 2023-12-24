@@ -1,0 +1,56 @@
+body
+{
+    background-size:cover;
+    background-position: center;
+    font-family: 'Neucha', cursive;
+}
+
+.heading
+{
+    font-size: 18px;
+    width: 88%;
+    margin: 0px;
+}
+
+#instructions
+{
+    font-size: 18px;
+    width: 10%;
+    margin: 0px;
+}
+
+.footer
+{ 
+    position:fixed;
+    font-size: 18px;
+    color: black;
+    bottom:0;
+    width:100%;
+    line-height:1;
+    text-align:center;
+}
+
+#startGame
+{
+    margin-top: 25px;
+    margin-right: 1000px;
+}
+
+#restart
+{
+    margin-top: 25px;
+    margin-right: 1000px;
+}
+
+#status
+{
+    margin-top: 40px;
+    margin-right: 1000px;
+}
+
+canvas
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px purple;
+}
